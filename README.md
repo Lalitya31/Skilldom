@@ -16,3 +16,8 @@ Modern UI Design Principles – Gradient backgrounds, consistent spacing, and ca
 Add interactive prototypes (clickable navigation).
 Integrate real course data and mentor profiles.
 Build responsive web version using React / Next.js.
+
+
+https://www.figma.com/proto/QKYK0kTIFCdpt5aeFme0Z0/GDG--Skilldom?node-id=3-262&p=f&t=8CWFegndKjA40PyI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
+
+Landing page -> explore courses -> tech -> more mentors
